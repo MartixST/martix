@@ -1,0 +1,8 @@
+﻿  CV2.cpp
+C:\Users\azhileeva\Desktop\CV2\CV2.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\azhileeva\Desktop\CV2\CV2.cpp(20,39): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\azhileeva\Desktop\CV2\CV2.cpp(30,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Rectangle.cpp
+C:\Users\azhileeva\Desktop\CV2\Rectangle.cpp(22,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  CV2.vcxproj -> C:\Users\azhileeva\Desktop\CV2\x64\Debug\CV2.exe
